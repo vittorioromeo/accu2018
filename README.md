@@ -7,6 +7,8 @@ Repository for my ACCU 2018 presentations.
 
 * [Slides](https://github.com/SuperV1234/accu2018/blob/master/zero_alloc_futures/slides.pdf)
 
+* [`orizzonte` library](https://github.com/SuperV1234/orizzonte)
+
 * [~YouTube video~](TODO)
 
 
