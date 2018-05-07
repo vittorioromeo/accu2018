@@ -9,7 +9,7 @@ Repository for my ACCU 2018 presentations.
 
 * [`orizzonte` library](https://github.com/SuperV1234/orizzonte)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=GehO6LPu4qA)
 
 
 ## `function_ref`: a non-owning reference to a `Callable`
